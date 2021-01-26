@@ -162,12 +162,8 @@ img {
   background-color: rgba(32,0,128, .7);
 }
 
-.appleArcadeLink {
-  width: 32%;
-}
-
-.nintendoSwitchLink {
-  width: 40%;
+.storeLink {
+  width: 20%;
 }
 
 /*.centerimage {
